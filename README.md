@@ -15,7 +15,7 @@ Add report file here
 <details>
 <summary>Backyard Camera Vision Classificication</summary>
 <br>
-[Backyard Camera Vision Report][https://github.com/jstrydom/portfolio/edit/main/Backyard Computer Vision Classification.pdf]
+[Backyard Camera Vision Report][https://github.com/jstrydom/portfolio/edit/main/Backyard%20Computer%20Vision%20Classification.pdf]
 </details>
 <details>
 <summary>Healthcare Claims Fraud</summary>
