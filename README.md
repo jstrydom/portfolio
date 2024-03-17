@@ -14,7 +14,6 @@ Add report file here
 </details>
 <details>
 <summary>Backyard Camera Vision Classificication</summary>
-<br>
    <li class="masthead__menu-item">
           <a href="https://github.com/jstrydom/portfolio/edit/main/Backyard%20Computer%20Vision%20Classification.pdf">Backyard Camera Vision Report</a>
         </li>
