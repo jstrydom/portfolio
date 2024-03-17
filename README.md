@@ -3,11 +3,22 @@ A small selection of data science projects.
 
 ## Projects
 <details>
-<summary>### Heart Disease Prediction</summary>
+<summary>Heart Disease Prediction</summary>
 <br>
 Add report file here
 </details>
-
-### Healthcare Claims Fraud
-### Liver Cirrhosis Stages
-### Backyard Camera Vision Classificication
+<details>
+<summary>Liver Cirrhosis Stages</summary>
+<br>
+Add report file here
+</details>
+<details>
+<summary>Backyard Camera Vision Classificication</summary>
+<br>
+![[https://github.com/jstrydom/portfolio/edit/main/Backyard Computer Vision Classification.pdf]]
+</details>
+<details>
+<summary>Healthcare Claims Fraud</summary>
+<br>
+Add report file here
+</details>
