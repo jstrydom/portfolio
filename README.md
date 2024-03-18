@@ -14,9 +14,7 @@ Add report file here
 </details>
 <details>
 <summary>Backyard Camera Vision Classificication</summary>
-   <li class="masthead__menu-item">
-          <a href="https://github.com/jstrydom/portfolio/edit/main/Backyard%20Computer%20Vision%20Classification.pdf">Backyard Camera Vision Report</a>
-        </li>
+   <object data="[../assets/path/to/document.pdf](https://github.com/jstrydom/portfolio/edit/main/Backyard%20Computer%20Vision%20Classification.pdf)" width="1000" height="1000" type='application/pdf'></object>
 </details>
 <details>
 <summary>Healthcare Claims Fraud</summary>
