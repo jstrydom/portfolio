@@ -26,6 +26,6 @@ Add description of project
 Add data source
 
 ### Transaction Flagging System for Fraudulent Transactions Exceeding €1000
-Add nbviewer link 
-This project explores the development of a system to flag fraudulent transactions over €1000. Utilizing a dataset of credit card transactions, various data mining techniques were applied to identify key variables that indicate fraudulent activity. The focus is on selecting simple, linearly related variables suitable for a regulatory-compliant, logic-based flagging system.
-Add data source
+<a href="https://github.com/jstrydom/portfolio/blob/main/Fraud%20Detection%20Report%20Jan%20Strydom%20.pdf" target="_blank">report</a> 
+This project explores the development of a system to flag fraudulent transactions over €1000. Utilizing a dataset of credit card transactions, various data mining techniques were applied to identify key variables that indicate fraudulent activity. The focus is on selecting simple, linearly related variables suitable for a regulatory-compliant, logic-based flagging system. Data can be found on <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank">Kaggle</a>.
+
