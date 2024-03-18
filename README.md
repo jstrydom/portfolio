@@ -2,22 +2,23 @@
 A small selection of data science projects. 
 
 ## Projects
-<details>
-<summary>Heart Disease Prediction</summary>
-<br>
-Add report file here
-</details>
-<details>
-<summary>Liver Cirrhosis Stages</summary>
-<br>
-Add report file here
-</details>
-<details>
-<summary>Backyard Camera Vision Classificication</summary>
-   <iframe src="https://docs.google.com/gview?url=https://github.com/jstrydom/portfolio/edit/main/Backyard%20Computer%20Vision%20Classification.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
-</details>
-<details>
-<summary>Healthcare Claims Fraud</summary>
-<br>
-Add report file here
-</details>
+
+### Heart Disease Prediction
+Add nbviewer link 
+Add description of project
+Add data source
+
+### Liver Cirrhosis Stages
+Add nbviewer link 
+Add description of project
+Add data source
+
+### Backyard Camera Vision Classificication
+Add nbviewer link
+This porject outlines the development of a specialized model for ChickenGuard, a backyard surveillance system designed to protect chickens from wild animal threats. The model leverages transfer learning with EfficientNetV2B0, employing Bayesian optimization to refine its architecture. A unique dataset, crafted through logical analysis of animal labels, underpins the ChickenGuard classification pipeline, enabling accurate identification of potential dangers to chickens. 
+Add data source
+
+### Healthcare Claims Fraud
+Add nbviewer link 
+Add description of project
+Add data source
