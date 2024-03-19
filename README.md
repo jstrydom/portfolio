@@ -5,7 +5,7 @@ A small selection of data science projects.
 
 ### Framingham Heart Disease Prediction
 <a href="https://nbviewer.org/github/jstrydom/portfolio/blob/main/Framingham_Heart_Disease_Prediction.ipynb" target="_blank">Nbviewer </a> <br>
-<a href="https://github.com/jstrydom/portfolio/blob/main/Framingham_Heart_Disease_Prediction.ipynb" target="_blank">Github</a> 
+<a href="https://github.com/jstrydom/portfolio/blob/main/Framingham_Heart_Disease_Prediction.ipynb" target="_blank">Github</a> <br>
 This project compares models for predicting 10-year coronary heart disease (CHD) risk using:<br>
 Demographics, lifestyle factors, & health measurements.<br>
 Decision trees, logistic regression, and XGBoost.<br>
@@ -14,7 +14,7 @@ Data can be found on [Kaggle](https://www.kaggle.com/datasets/aasheesh200/framin
 
 ### Liver Cirrhosis Stages
 <a href="https://nbviewer.org/github/jstrydom/portfolio/blob/main/Liver_Cirrhosis_TenYear.ipynb" target="_blank">Nbviewer </a> <br>
-<a href="https://github.com/jstrydom/portfolio/blob/main/Liver_Cirrhosis_TenYear.ipynb" target="_blank">Github</a> 
+<a href="https://github.com/jstrydom/portfolio/blob/main/Liver_Cirrhosis_TenYear.ipynb" target="_blank">Github</a> <br>
 This project predicts liver disease stage using patient information and clinical measurements. Techniques include:<br>
 MICE for missing value imputation. <br>
 Decision trees, logistic regression, and XGBoost for classification. <br>
@@ -23,7 +23,7 @@ Data can be found on <a href="https://www.kaggle.com/datasets/fedesoriano/cirrho
 
 ### Backyard Camera Vision Classificication
 <a href="https://nbviewer.org/github/jstrydom/portfolio/blob/main/Backyard%20Camera%20Vision%20Classificication.ipynb" target="_blank">Nbviewer </a> <br>
-<a href="https://github.com/jstrydom/portfolio/blob/main/Backyard%20Camera%20Vision%20Classificication.ipynb" target="_blank">Github</a> 
+<a href="https://github.com/jstrydom/portfolio/blob/main/Backyard%20Camera%20Vision%20Classificication.ipynb" target="_blank">Github</a> <br>
 
 This project outlines the development of a specialized model for ChickenGuard, a backyard surveillance system designed to protect chickens from wild animal threats. The model leverages transfer learning with EfficientNetV2B0, employing Bayesian optimization to refine its architecture. A unique dataset, crafted through logical analysis of animal labels, underpins the ChickenGuard classification pipeline, enabling accurate identification of potential dangers to chickens. Data is propietary and closed source. 
 
