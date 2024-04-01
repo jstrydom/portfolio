@@ -1,12 +1,12 @@
 # Data Science portfolio
-A small selection of data science projects. 
+Dual citizen of the USA and South Africa, healthcare professional passionate about leveraging AI to improve outcomes for underserved communities and fostering better working conditions within the healthcare system. Currently pursuing a Master's degree in Data Science and Analytics (graduating May 2024).
 
 ## Projects
 
 ### Framingham Heart Disease Prediction
 <a href="https://nbviewer.org/github/jstrydom/portfolio/blob/main/Framingham_Heart_Disease_Prediction.ipynb" target="_blank">Nbviewer </a> <br>
 <a href="https://github.com/jstrydom/portfolio/blob/main/Framingham_Heart_Disease_Prediction.ipynb" target="_blank">Github</a> <br>
-This project compares models for predicting 10-year coronary heart disease (CHD) risk using:<br>
+This project compares models 10-year coronary heart disease (CHD) risk using for predicting :<br>
 Demographics, lifestyle factors, & health measurements.<br>
 Decision trees, logistic regression, and XGBoost.<br>
 K-fold cross-validation for evaluation.<br>
